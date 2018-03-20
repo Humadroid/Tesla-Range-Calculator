@@ -1,3 +1,9 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+# That's how this project looks like
+
+![Tesla Range Calculator](src/assets/final.gif "Tesla Range Calculator App working Demo")
+
 # AngularTeslaRangeCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
