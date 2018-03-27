@@ -5,7 +5,7 @@
 
 ![Tesla Range Calculator](src/assets/final.gif "Tesla Range Calculator App working Demo")
 
-# AngularTeslaRangeCalculator
+# Tesla Range Calculator built with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 

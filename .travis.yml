@@ -8,7 +8,7 @@ before_script:
   - npm install -g --silent bootstrap
 
 script:
-  - ng build --prod
+  - ng build --prod --build-optimizer
 
 after_success:
   - firebase use angular-tesla-range-calculator
