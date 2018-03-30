@@ -3,6 +3,8 @@
 
 # That's how this project looks like
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Humadroid/Tesla-Range-Calculator.svg)](https://greenkeeper.io/)
+
 ![Tesla Range Calculator](src/assets/final.gif "Tesla Range Calculator App working Demo")
 
 # Tesla Range Calculator built with Angular
